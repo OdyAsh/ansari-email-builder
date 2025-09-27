@@ -1,0 +1,127 @@
+newsletter:
+  title: "Gearing up for Ansari 4 - September 2025"
+  greeting: "Ansari is an AI assistant that answers Islamic questions with verified sources from Quran and Hadith."
+  unsubscribe_text: "You are receiving this e-mail because you signed up to the Ansari updates mailing list, or because you have created an account on ansari.chat. Feel free to"
+  unsubscribe_link: "https://chat.us21.list-manage.com/unsubscribe?u=6a15c921d5877515bdc472d7c&id=086ac2ad2d&t=b&e=%5BUNIQID%5D&c=46443b1900"
+
+branding:
+  logo_url: "https://drive.google.com/thumbnail?id=1c_R39pQEorZ3w_1uC9Z8l2_O5YzDPso2&sz=w200-h200"
+  logo_alt: "Ansari Logo"
+
+highlights:
+  title: "In This Edition:"
+  icon: "https://drive.google.com/thumbnail?id=1ctrBYOjrCyIWDPHFDiUuBthUm9cyI4QI"
+  highlights_list:
+    - "🔊 Your Voice Matters: Shape Ansari 4"
+    - "ℹ️ Recent Presentations featuring Ansari"
+    - "🚀 Ansari MCP Server for Developers"
+    - "✊ Community Acknowledgment"
+    - "🤝 How You Can Help"
+    - "▶️ Reminder: where to get Ansari"
+
+sections:
+  - type: "content"
+    title: "Your Voice Matters: Shape Ansari 4"
+    icon: "https://drive.google.com/thumbnail?id=12HdfMWPPcUAAgJwfzbbBbophMHIcBU6d"
+    paragraphs:
+      - "We're planning the next major version of Ansari and need YOUR input! We've prepared a brief survey to understand which features would be most valuable to our community."
+    feature_list_intro: "**Top potential features include:**"
+    feature_list:
+      - "⚡ Progressive Response Mode (get instant answers that enhance with citations)"
+      - "🎯 Dynamic Suggestions (contextual follow-up questions)"
+      - "🧠 Model Selection (choose between Claude, Gemini, and other AI models)"
+      - "📚 Guided Learning Mode (personalized Islamic learning plans)"
+      - "🎙️ Voice Conversations (speak your questions, hear the answers)"
+      - "📄 File Upload Support (analyze PDFs and images of Islamic texts)"
+    cta_buttons:
+      - text: "Take the 2-minute survey →"
+        link: "https://forms.gle/4UP4mwpkNQbyyPSB7"
+    paragraphs_after_cta:
+      - "Your feedback will directly influence our development priorities for Ansari 4."
+
+  - type: "content"
+    title: "Recent Presentations featuring Ansari"
+    icon: "https://drive.google.com/thumbnail?id=1a6iXO_t84QFwUIU6Kc9cpuxKQHbViBi2"
+    subsections:
+      - title: "Qur'an Computing Conference 2025"
+        paragraphs:
+          - "We presented \"Advances in AI Assistants for Enhancing Qur'anic Understanding: The Ansari Chat Journey\" at the International Qur'an Computing Conference. Of special interest is the statistical analysis of the questions people ask, the languages they use and how happy are people with Ansari."
+        link: "https://slideshare.net/slideshow/advances-in-ai-assistants-for-enhancing-qur-anic-understanding-the-ansari-chat-journey/283120585"
+        link_text: "View the presentation slides"
+      - title: "AMJA Workshop: \"Imam 2.0: Leveraging AI to Enhance Islamic Leadership\""
+        paragraphs:
+          - "Drs. Waleed Kadous and Hidayah Ansari presented an interactive workshop at AMJA's 21st Annual Imams' Conference titled \"Imam 2.0: Leveraging AI to Enhance Islamic Leadership.\""
+          - "The workshop featured hands-on activities demonstrating how Imams can integrate AI tools like Ansari into their daily work, from sermon preparation to community outreach. Ansari was extensively demonstrated live."
+
+  - type: "content"
+    title: "Ansari is Now Available as an MCP Server"
+    icon: "https://drive.google.com/thumbnail?id=1WRt7UoDOxhka8d1QQa4poYIgxOKiPOME"
+    paragraphs:
+      - "**For developers and advanced users:** We're excited to announce that Ansari is now available as a Model Context Protocol (MCP) server. MCP is a new standard that allows AI tools like Claude Desktop, Claude Code, and Cursor to integrate specialized knowledge sources."
+      - "With the Ansari MCP server, you can:"
+    feature_list:
+      - "Access Islamic knowledge directly within your AI development environment"
+      - "Get authentic answers with citations from Quran and Hadith"
+      - "Build Islamic applications with verified religious sources"
+    paragraphs_after_features:
+      - "**Getting Started:**"
+      - "See installation instructions at [github.com/ansari-project/ansari-mcp](https://github.com/ansari-project/ansari-mcp)."
+      - "*Note: This feature is currently for technical users. We're working on making Ansari's advanced capabilities accessible to everyone in future updates.*"
+
+  - type: "contributors"
+    title: "Community Acknowledgment"
+    icon: "https://drive.google.com/thumbnail?id=1Jvbt9UInwL5ZCUa9YZUtDD3rSZkmNUT7"
+    description: "Special thanks to our growing community of contributors:"
+    contributors:
+      - name: "The MCP integration team"
+        description: "for making Ansari accessible to developers"
+      - name: "Conference organizers"
+        description: "at Qur'an Computing 2025 and AMJA"
+      - name: "Beta testers"
+        description: "providing feedback on new features"
+      - name: "All users"
+        description: "who continue to share Ansari with their communities"
+
+  - type: "numbered_list"
+    title: "How You Can Help"
+    icon: "https://drive.google.com/thumbnail?id=1FiLz-iu0bjfqSs7YckahclBjCWFsWj8T"
+    list_items:
+      - "**[Complete the survey](https://forms.gle/eEfNEYR92zRZckPW9)** - Your 2 minutes will shape months of development"
+      - "**Rate and review** our Android app to help others discover Ansari"
+      - "**Join our volunteer WhatsApp group**: [chat.whatsapp.com/IQdJDIz9xz1FW8uqmjuQQz](https://chat.whatsapp.com/IQdJDIz9xz1FW8uqmjuQQz)"
+      - "**Share** this update with friends and family who could benefit"
+      - "**Provide feedback** at feedback@ansari.chat"
+
+  - type: "platforms"
+    title: "Reminder: where to get Ansari"
+    icon: "https://drive.google.com/thumbnail?id=1AukIIHwk44vaEhFTn--8VtGzl1JYRVg9"
+    description: "**Current availability:**"
+    platforms:
+      - name: "Web"
+        link: "https://ansari.chat"
+        link_text: "ansari.chat"
+        icon: "https://drive.google.com/thumbnail?id=1NqIg3CuP0cr-B7VIh3uJ3CsEjC2d01Sd"
+      - name: "WhatsApp"
+        link: "https://wa.me/16506563971"
+        link_text: "Message +1 650 656 3971 or wa.me/16506563971"
+        icon: "https://drive.google.com/thumbnail?id=1kNwgDE1P0EjQ_UjdFJeOlPIUUxcD1L03"
+      - name: "Android"
+        link: "https://play.google.com/store/apps/details?id=chat.ansari.app"
+        link_text: "Google Play Store"
+        icon: "https://drive.google.com/thumbnail?id=1aGsNzoaUpHSg_guBxGhsUyk_Mc4j9NT9"
+      - name: "iOS"
+        link: "https://apps.apple.com/us/app/ansari-chat/id6743072108"
+        link_text: "App Store"
+        icon: "https://drive.google.com/thumbnail?id=1-fZFuN4jyou1z0nfo93uM0aU1NFzCVtu"
+      - name: "MCP Server"
+        link: "https://github.com/ansari-project/ansari-mcp"
+        link_text: "github.com/ansari-project/ansari-mcp"
+        icon: "https://drive.google.com/thumbnail?id=1NqIg3CuP0cr-B7VIh3uJ3CsEjC2d01Sd"
+    footer_text:
+      - "JazakAllah khair for being part of the Ansari journey. Together, we're making authentic Islamic knowledge accessible to Muslims worldwide."
+
+footer:
+  signature_text: "Remember us and Ansari in your dua!"
+  signature_icon: "https://drive.google.com/thumbnail?id=1Ms7IhnyemP_iP2j_wIwmH0EuuZuomO94"
+  signature_icon_alt: "Praying hands icon"
+  team_name: "The Ansari Team"

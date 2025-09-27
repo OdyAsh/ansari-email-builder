@@ -1,0 +1,26 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Email envelope background -->
+  <rect width="64" height="64" fill="#08786b" rx="8"/>
+
+  <!-- Email envelope shape -->
+  <rect x="8" y="16" width="48" height="32" fill="#0a9988" stroke="#ffffff" stroke-width="1" rx="2"/>
+
+  <!-- Email flap -->
+  <polygon points="8,16 32,36 56,16" fill="#0cb5a3" stroke="#ffffff" stroke-width="1"/>
+
+  <!-- Ansari star pattern (simplified) centered on envelope -->
+  <g transform="translate(32,32) scale(0.6)">
+    <!-- Main star shape inspired by the logo -->
+    <polygon points="0,-12 3.5,-3.5 12,0 3.5,3.5 0,12 -3.5,3.5 -12,0 -3.5,-3.5" fill="#ffffff" opacity="0.9"/>
+
+    <!-- Inner details -->
+    <polygon points="0,-8 2.5,-2.5 8,0 2.5,2.5 0,8 -2.5,2.5 -8,0 -2.5,-2.5" fill="#08786b"/>
+
+    <!-- Center dot -->
+    <circle cx="0" cy="0" r="2" fill="#ffffff"/>
+  </g>
+
+  <!-- Email lines for additional email context -->
+  <rect x="12" y="52" width="16" height="1" fill="#ffffff" opacity="0.6"/>
+  <rect x="32" y="52" width="20" height="1" fill="#ffffff" opacity="0.6"/>
+</svg>
